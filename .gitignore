@@ -33,7 +33,6 @@ share/python-wheels/
 MANIFEST
 
 # Instance distribution
-static/
 media/
 
 # PyInstaller
